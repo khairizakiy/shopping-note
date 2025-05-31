@@ -23,10 +23,6 @@ to download the shopping list as a `.txt` file.</p>
 
 ---
 
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
